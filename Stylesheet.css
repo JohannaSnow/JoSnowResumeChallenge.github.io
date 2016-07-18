@@ -28,7 +28,7 @@ div {
 }
 
 #element{
-	background: radial-gradient(aqua, blue);
+	background: linear-gradient(to bottom, red, yellow);
 	height: 20px;
 	width: 20px;
 }
