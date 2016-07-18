@@ -9,5 +9,9 @@ Changed footer to sky blue
 Changed margins on .left and .right
 Changed height on .left and .right to fit the page
 Changed font-size on H4 and H5
-Added a gradient
+Added a linear-gradient (tried to get it to go along the bottom right above the footer, still trying to figure that out)
+Added "JS" image, (tried to move it onto the teal color bottom right-corner and shrink it, but no dice)
+
+
+Definitely going to work on this more and add a couple of other things. 
 
