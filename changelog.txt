@@ -1,0 +1,10 @@
+07/17/2016
+Changed header to sky blue
+Changed Name font to Helvetica, Arial
+Changed Email font to Helvetica, Arial
+Changed H4 and H5 to Garamond/Verdana
+Turned .right background color to teal
+Turned .left background to light purple
+Changed footer to sky blue
+Changed margins on .left and .right
+Changed 
