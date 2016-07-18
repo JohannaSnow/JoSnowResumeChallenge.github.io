@@ -28,7 +28,7 @@ div {
 }
 
 #element{
-	background: linear-gradient(to bottom, red, yellow);
+	background: linear-gradient(to bottom, purple, blue);
 	height: 20px;
 	width: 20px;
 }
