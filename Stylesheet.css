@@ -25,7 +25,10 @@ div {
 #experience{
 	border-radius: 15px;
 }
-
+.element{
+	background:
+	radial-gradient(aqua, blue);
+}
 
 #email{
 	float:right;
@@ -49,8 +52,10 @@ h5{
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Garamond, Verdana;
+	font-size: 15px;
 	font-weight: bold;
 	font-color: #7d2e49;
+	
 }
 
 .right p {
