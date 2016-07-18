@@ -7,4 +7,6 @@ Turned .right background color to teal
 Turned .left background to light purple
 Changed footer to sky blue
 Changed margins on .left and .right
-Changed 
+Changed height on .left and .right to fit the page
+Changed font-size on H4 and H5
+
