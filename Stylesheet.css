@@ -26,7 +26,8 @@ div {
 #experience{
 	border-radius: 15px;
 }
-.element{
+
+#element{
 	background: radial-gradient(aqua, blue);
 }
 
