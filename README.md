@@ -1,1 +1,1 @@
-# ResumeChallenge.github.io
+# JoSnowResumeChallenge.github.io
