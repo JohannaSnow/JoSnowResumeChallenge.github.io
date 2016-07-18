@@ -9,4 +9,5 @@ Changed footer to sky blue
 Changed margins on .left and .right
 Changed height on .left and .right to fit the page
 Changed font-size on H4 and H5
+Added a gradient
 
